@@ -60,7 +60,7 @@ Overall, our data analysis suggests a bike sharing service can be self sustainin
 * We should use promotions and discount programs to increase usage by female patrons and on Wednesdays.
 * Overused bikes should be targeted for maintenance and replacement.
 
-The next step would be analysis of the market, demand, and locations in Des Moines
+The next step would be analysis of the market, demand, and locations in Des Moines.
 
 ## Additional Visualizations
 
