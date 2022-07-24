@@ -64,6 +64,7 @@ The next step would be analysis of the market, demand, and locations in Des Moin
 
 ## Additional Visualizations
 
+A few additional visualizations of the dataset might be helpful before moving on to Des Moine market analysis:
 * A visualization of the difference between trip starts and trip stops at each station would show which stations to take bikes from and which stations to deliver bikes to overnight. This should be broken out 
     by week day and be connected to live data to guide bike transfers each night. 
 * A visualization of usage over the course of a year would help identify seasonality in demand, and allow for planning on when to store bikes or invest in new ones. 
