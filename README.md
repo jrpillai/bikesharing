@@ -1,7 +1,7 @@
 # Bike Share Business Planning : NYC Citi Bike Analysis
 
 ## Overview
-In this analysis, we use Tableau to visualize bike trip data from NYC Citi Bike, a bike sharing service, in August 2019. Our goal is to draw useful conclusions about the feasibility and operational details of a similar bike sharing service in Des Moines, IA. 
+In this analysis, we use Tableau to visualize bike trip data from NYC Citi Bike, a bike sharing service, in August 2019. Our goal is to draw useful conclusions about the feasibility and operational details of a similar bike sharing service in Des Moines, IA. This analysis culminated in a public tableau dashboard: [Link to Tableau Dashboard](https://public.tableau.com/views/BusinessPlanningNYCCItiBikeAnalysis/NYCitiBikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
@@ -52,19 +52,19 @@ This vizualization shows the start times of bike trips throughout the day in Aug
 ## Conclusions
 
 Overall, our data analysis suggests a bike sharing service can be self sustaininable and feasible.  We can also make some key conclusions about operational details:
-    * Most trips will be short (less than 20 minutes). We need to analyze the balance between a per-trip fee and per-minute fee to maximize revenue and usage. 
-    * Weekdays will be dominated by the morning and evening commute.
-    * Usage/demand varies greatly by geographic area.
-    * Maintenance and service should be performed mainly overnight, from 2am - 4am. Weekends and Wednesdays should also be targeted for maintenance needs. 
-    * Few bike transfers will be needed, but they should take place overnight. 
-    * We should use promotions and discount programs to increase usage by female patrons and on Wednesdays.
-    * Overused bikes should be targeted for maintenance and replacement.
+* Most trips will be short (less than 20 minutes). We need to analyze the balance between a per-trip fee and per-minute fee to maximize revenue and usage. 
+* Weekdays will be dominated by the morning and evening commute.
+* Usage/demand varies greatly by geographic area.
+* Maintenance and service should be performed mainly overnight, from 2am - 4am. Weekends and Wednesdays should also be targeted for maintenance needs. 
+* Few bike transfers will be needed, but they should take place overnight. 
+* We should use promotions and discount programs to increase usage by female patrons and on Wednesdays.
+* Overused bikes should be targeted for maintenance and replacement.
 
 The next step would be analysis of the market, demand, and locations in Des Moines
 
 ## Additional Visualizations
 
-    * A visualization of the difference between trip starts and trip stops at each station would show which stations to take bikes from and which stations to deliver bikes to overnight. This should be broken out 
+* A visualization of the difference between trip starts and trip stops at each station would show which stations to take bikes from and which stations to deliver bikes to overnight. This should be broken out 
     by week day and be connected to live data to guide bike transfers each night. 
-    * A visualization of usage over the course of a year would help identify seasonality in demand, and allow for planning on when to store bikes or invest in new ones. 
+* A visualization of usage over the course of a year would help identify seasonality in demand, and allow for planning on when to store bikes or invest in new ones. 
 
